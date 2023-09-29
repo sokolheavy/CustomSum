@@ -1,0 +1,16 @@
+{
+  "name": "CustomeSum",
+  "version": "1.0.1",
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/sokolheavy/CustomSum/blob/master/LICENSE"
+  },
+  "homepage": "https://github.com/sokolheavy/CustomSum",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sokolheavy/CustomSum"
+  },
+  "bugs": {
+    "url": "https://github.com/sokolheavy/CustomSum/issues"
+  }
+}
