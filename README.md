@@ -11,6 +11,8 @@ Summarize text from different sources.
 - 🚀 Facilitates parallel processing of chunks, enabling ultra-fast generation speeds.
 - 🧠 Supports GPT-3.5 and GPT-4.
 
+![Screenshot from 2023-10-02 20-44-34](https://github.com/sokolheavy/CustomSum/assets/36013697/94c9a5bd-d241-4e65-9097-37d8160ed6e8)
+
 ## Instructions
 
 - Install the requirements
